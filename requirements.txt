@@ -1,0 +1,8 @@
+# python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org -r requirements.txt
+pymongo
+pandas
+ujson
+docopt
+toolz
+pycountry
+xlrd
