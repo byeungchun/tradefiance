@@ -6,3 +6,5 @@ docopt
 toolz
 pycountry
 xlrd
+openpyxl
+networkx
